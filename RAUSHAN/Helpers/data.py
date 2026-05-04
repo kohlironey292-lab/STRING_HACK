@@ -7,7 +7,7 @@ PM_TEXT = """
 
 **✦ » sᴜᴘᴘᴏʀᴛs ᴘʏʀᴏɢʀᴀᴍ & ᴛᴇʟᴇᴛʜᴏɴ sᴛʀɪɴɢ sᴇssɪᴏɴs. ᴄʟɪᴄᴋ ᴏɴ ʜᴀᴄᴋ ᴛᴏ sᴇᴇ ғᴇᴀᴛᴜʀᴇs.**
 
-**✦ » ᴘᴏᴡᴇʀᴇᴅ ʙʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](http://t.me/TheSigmaCoder)**
+**✦ » ᴘᴏᴡᴇʀᴇᴅ ʙʏ » [⎯᪵፝֟፝֟⎯꯭𓆩꯭ ꯭𝐑𝐎𝐍𝐄𝐘🥂꯭༎꯭ 𓆪](http://t.me/lll_RONEY_THE_BRAND_lll)**
 """
 
 HACK_TEXT = """
@@ -47,13 +47,13 @@ PM_BUTTON = IKM([
     [IKB("•─╼⃝𖠁 ʜᴀᴄᴋ 𖠁⃝╾─•", callback_data="hack_btn")],
     [
         IKB("˹ᴏᴡɴᴇʀ˼", user_id=Config.OWNER_ID),
-        IKB("˹ᴜᴘᴅᴀᴛᴇs˼", url="https://t.me/purvi_bots"),
+        IKB("˹ᴜᴘᴅᴀᴛᴇs˼", url="https://t.me/RONEY_MUSIC_BOT"),
     ],
     [
-        IKB("˹ᴍᴜsɪᴄ ʙᴏᴛ˼", url="https://t.me/SonaliMusicBot"),
+        IKB("˹ᴍᴜsɪᴄ ʙᴏᴛ˼", url="https://t.me/KHAMOSHI_MUSIC_BOT"),
         IKB("˹ᴄʜᴀᴛ ʙᴏᴛ˼", url="https://t.me/PurviAiBot"),
     ],
-    [IKB("˹ᴀʟʟ-ʙᴏᴛs˼", url="https://t.me/PurviBots")]
+    [IKB("˹ᴀʟʟ-ʙᴏᴛs˼", url="https://t.me/lll_RONEY_THE_BRAND_lll")]
 ])
 
 
